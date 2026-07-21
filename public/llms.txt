@@ -1,0 +1,14 @@
+# Mr. Git
+
+Find your next open source contribution. Mr. Git helps developers discover real GitHub issues that match their skills, experience, and interests.
+
+## Features
+- Search GitHub issues by multi-selected skills (up to 10), experience levels, and interests.
+- Sort and filter results dynamically by difficulty, star count, and comments.
+- Bookmarks list stored in client-side localStorage.
+- Copy issue link, view repository, or open issues directly on GitHub.
+
+## API Endpoint
+- POST `/api/search`
+  - Body: `{"skills": string[], "experience": "beginner" | "intermediate" | "advanced", "interests": string[]}`
+  - Returns curated list of opportunities, matching skills to repositories, with details on issue and match score.

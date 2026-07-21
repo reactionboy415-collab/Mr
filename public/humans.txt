@@ -1,0 +1,10 @@
+/* TEAM */
+Chef Architect: Senior Staff Engineer / Growth Engineer / UI UX Designer
+Email: developer9301@gmail.com
+Location: Global
+
+/* SITE */
+Last update: 2026/07/21
+Standards: HTML5, CSS3, ES2022
+Components: React, Vite, Tailwind CSS, Framer Motion, Lucide Icons
+Software: TypeScript, Express

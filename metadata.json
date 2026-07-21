@@ -1,0 +1,6 @@
+{
+  "name": "Mr. Git",
+  "description": "Find your next open source contribution. Discover real GitHub issues tailored to your skills, experience, and interests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
